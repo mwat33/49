@@ -1,0 +1,10 @@
+.g_input{
+    font-size: 11pt;
+    border: 1px solid rgb(220, 220, 220);
+    color: rgb(0, 0, 0);
+    border-radius: 2pt 2pt 2pt 2pt;
+}
+
+.g_bt{
+    color: rgb(80,80,80);
+}
